@@ -39,5 +39,4 @@ Github :octocat: : [Github](https://github.com/SmartPracticeschool/SBSPS-Challen
 
 #### Authors
 * Janki Patel
-* Aneri Shah
 * Sanjeev Khatwani
