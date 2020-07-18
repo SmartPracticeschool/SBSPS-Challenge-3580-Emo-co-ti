@@ -28,7 +28,7 @@ on lockdown extension
 
 1. Node Red: All our front end code has been designed by the IBM Cloud service Node Red.
  [Node Red](https://node-red-emocoti.mybluemix.net/ui) (For viewing the UI). You can download the json file from the Node-Red folder and change in in your IBM Cloud acount.
-2. Cognos Dashboard: We have used the Cognos Dashboard service to plot interactive graphs of various tweets (live as well as stored).
+2. Cognos Dashboard: We have used the Cognos Dashboard service to plot interactive graphs of various tweets (live as well as stored). [Situation](https://eu-gb.dataplatform.cloud.ibm.com/dashboards/49b74044-832d-406b-b4ea-7c8c22207b67/view/1d04f1081e9928e21fc5e2e407cb2d0f28632009b2bbd251d5837b490a637597f03d4792c82c1a5cda165130f6eb475fce) and [Sentiment Analysis](https://eu-gb.dataplatform.cloud.ibm.com/dashboards/439c9a3f-4722-4c55-a020-939c5c0d8568/view/5114aa06639e34fc49d7c4e407cb2d0f28632009b2bbd251d5837b490a637597f03d4792c82c1a5cda165130f6eb475fce)
 3. Tone Analyzer: We have used this service on cloud as well as in Jupyter notebooks to get the tone of the tweets.
 4. Tweet Analyser: This is a feature where in a person can check the sentiment of his tweet before posting it. (Created with the help of Node Red and Tone Analyser)
 5. Jupyter Notebooks: All the preprocessing code has been provided in the notebook files and we have provided the csvs (Input and Output both) as well. The input csvs have helped us in fetching  the tweets while the output csvs have been helpful in Cognos Dashboard.
